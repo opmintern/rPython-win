@@ -1,5 +1,5 @@
 #!/bin/sh
 
-echo 'PKG_LIBS=-LC:/python36/libs -lpython36'  > src/makevars.win
-echo 'PKG_CFLAGS=-I"C:/Python36/include"'     >> src/makevars.win
+echo 'PKG_LIBS=-LC:/Users/opmintern2/AppData/Local/Programs/Python/Python36-32/libs -lpython36-32'  > src/makevars.win
+echo 'PKG_CFLAGS=-I"C:/Users/opmintern2/AppData/Local/Programs/Python/Python36-32/include"'     >> src/makevars.win
 
